@@ -18,7 +18,7 @@ yarn
 
 ### Commands:
 
-### Run `build` for production
+### Run `build` for production mode
 
 ```sh
 # npm 
@@ -28,7 +28,7 @@ npm run build
 yarn build
 ```
 
-### Run webpack development server with the `watch` command
+### Run `watch` develompent mode
 
 ```sh
 # npm
