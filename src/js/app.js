@@ -1,4 +1,4 @@
-import { helloWorld } from './components/hello-world';
+import { helloWorld } from './src/hello-world';
 
 const App = () => {
     console.log(helloWorld());
