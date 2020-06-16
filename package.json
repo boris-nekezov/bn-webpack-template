@@ -11,8 +11,8 @@
   "author": "Boris Nekezov",
   "license": "MIT",
   "devDependencies": {
-    "@babel/core": "^7.6.4",
-    "@babel/preset-env": "^7.6.3",
+    "@babel/core": "^7.10.2",
+    "@babel/preset-env": "^7.10.2",
     "babel-loader": "^8.0.6",
     "css-loader": "^3.2.0",
     "file-loader": "^4.2.0",
